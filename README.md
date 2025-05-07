@@ -16,3 +16,10 @@ a FastAPI backend on Google Kubernetes Engine (GKE) with Cloud Spanner as the ba
 1. FastAPI application connects to Cloud Spanner
 2. Deployed to GKE via Kubernetes manifests
 3. Prometheus deployed to monitor GKE
+
+## How to Setup
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/DivyaNanda/spanner-fastapi-gke.git
+cd spanner-fastapi-gke
